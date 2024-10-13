@@ -33,6 +33,6 @@ password : admin123
 
 # Deployment Link
 
-FRONTEND DEPLOYMENT :
+FRONTEND DEPLOYMENT : https://kaleidoscopic-axolotl-8e2a04.netlify.app/
 
-BACKEND DEPLOYMENT : 
+BACKEND DEPLOYMENT : https://worklogs-4t22.onrender.com
